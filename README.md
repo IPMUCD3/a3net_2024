@@ -1,4 +1,7 @@
 # A3Net Summer School 2024
+
+please see directories for more specific resources.
+
 ## Osaka 9/2-9/6 2024
 
 ### Monday (Sept 2)
