@@ -14,3 +14,8 @@ The way I figured out how to do this is as follows (there might be a better meth
 7. you should be able to see the file now.
    To switch the colab working directory to your drive, type:
    ``cd "/content/drive/MyDrive/"``
+
+## Image Classification / Regression / Generation Tutorials and Exercises
+---------
+All the material is available at:
+https://github.com/cesarjesusvalls/A3NetRingImg
