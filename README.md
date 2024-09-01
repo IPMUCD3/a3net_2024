@@ -8,7 +8,7 @@ please see directories for more specific resources.
 * 12-13 Registration
 * 13-16 lecture+hands on\
 [Makoto Uemura: statistical modeling + shallow ML](Lecture_Day1_Uemura)
-* 16-17 fireslides (each participant 1min to present themselves)
+* 16-17 [fireslides](https://docs.google.com/presentation/d/1bu0Y7P5FbRlEKuHy0GCkL7ajRrdy0eCt-3MZeqZvals/edit?usp=sharing) (each participant 1min to present themselves)
 
 ### Tuesday (Sept 3)
 * 9-10 [hack](Hack) introduction & group forming
