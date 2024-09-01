@@ -68,3 +68,25 @@ I have not tested if the pre-trained PyTorch models for images run smoothly in G
 Note: if a large amount of data is used in transfer learning, the differences between transfer learning and training from scratch may become negligible. To properly assess the benefits of transfer learning, it may be helpful to limit the size of the dataset used for transfer learning. See, e.g., Fig. 5 of [this study](https://arxiv.org/abs/2310.02994) for similar investigation.
 
 Contact person: Kana Moriwaki
+
+## Weather classifier
+
+Develop a CNN classifier of the sky condition using images obtained with our sky monitor camera.
+
+[Background and goal](https://drive.google.com/file/d/1_IEtQnvjdHcb9rvKcwbl7F1B4z4yU4i8/view?usp=sharing)
+
+[Data](https://drive.google.com/drive/folders/1KJs-OVU-ZSyiTIHtZusgFAktwFtv97S9?usp=share_link)
+
+There are thousands of images in the above link (google drive), while I have ten thousands of images in my USB flash drive. If you have try to use them, please let me know. 
+
+Contact person: Makoto Uemura
+
+## Variable selection
+
+Find a set of variable to construct the best model of the magnitude at maximum of Type Ia supernovae using LASSO + Cross-validation. This theme is not for deep learning and neural network related methods, while you may try them for this theme.
+
+[Background and goal](https://drive.google.com/file/d/1b0wLOvDtJHA8rZJKHdp-XUyXspX65q2g/view?usp=share_link)
+
+[Data](https://drive.google.com/drive/folders/1kz94LOxBTEpKeNBrG56K8rs9sp2u9Y8M?usp=sharing)
+
+Contact person: Makoto Uemura
