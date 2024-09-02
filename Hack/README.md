@@ -15,8 +15,11 @@ The way I figured out how to do this is as follows (there might be a better meth
    To switch the colab working directory to your drive, type:
    ``cd "/content/drive/MyDrive/"``
 
-## Image Classification / Regression / Generation Tutorials and Exercises
+## (1) Image Classification / Regression / Generation Tutorials and Exercises
 ---------
+Analyzing Cherenkov light from massive neutrino detectors, such as Super-Kamiokande,
+with convolutional neural nets.
+
 All the material is available at:
 [this link](https://github.com/cesarjesusvalls/A3NetRingImg)
 
@@ -29,7 +32,7 @@ Goal: the paper, notebook, and data set in the link above are for a project that
 
 contact person: Michelle Ntampaka
 
-## Galaxy redshifts with Decision Trees
+## (2) Galaxy redshifts with Decision Trees
 please follow [this link](https://archive.stsci.edu/hello-universe/3d-hst)
 
 Goal: the notebook and data set in the link above are for a project that uses a decision tree to estimate the redshifts of galaxies. In this hack, you will explore other ML algorithms for using the same data to estimate galaxy redshifts. Scikit-Learn has a [flow chart](https://scikit-learn.org/1.3/tutorial/machine_learning_map/index.html) for selecting ML methods. Support Vector Regression might be an interesting technique to try.
@@ -38,7 +41,7 @@ Note: the Hello Universe notebook is also available on the [TIKE science platfor
 contact person: Michelle Ntampaka
 
 
-## Interpretation of GAN's latent space
+## (3) Interpretation of GAN's latent space
 
 In the Thursday lecture, generative models such as VAE, GAN, flow-based models, and diffusion models will be introduced. Among these, VAE and GAN allow for the dimensionality of the latent space to be set smaller than that of the data space. VAE is sometimes used for dimensionality reduction, and researchers often attempt to interpret its latent space after training (see e.g., [this work](https://ui.adsabs.harvard.edu/abs/2020AJ....160...45P/abstract)). The goal of this project is to gain a deeper understanding of the latent space of GANs.
 
@@ -54,7 +57,7 @@ Note: I recommend using low-dimensional data (e.g., 1D) and reducing the size of
 
 Contact person: Kana Moriwaki
 
-## Transfer learning 
+## (4) Transfer learning 
 
 Transfer learning is a machine learning technique where a model trained on one task is adapted and reused for a different but related task, leveraging the knowledge gained from the initial task to improve performance on the new one. 
 
@@ -69,7 +72,7 @@ Note: if a large amount of data is used in transfer learning, the differences be
 
 Contact person: Kana Moriwaki
 
-## Weather classifier
+## (5) Weather classifier
 
 Develop a CNN classifier of the sky condition using images obtained with our sky monitor camera.
 
@@ -81,7 +84,7 @@ There are thousands of images in the above link (google drive), while I have ten
 
 Contact person: Makoto Uemura
 
-## Variable selection
+## (6) Variable selection
 
 Find a set of variable to construct the best model of the magnitude at maximum of Type Ia supernovae using LASSO + Cross-validation. This theme is not for deep learning and neural network related methods, while you may try them for this theme.
 
@@ -91,7 +94,7 @@ Find a set of variable to construct the best model of the magnitude at maximum o
 
 Contact person: Makoto Uemura
 
-## Using CNNs to infer the fundamental parameters of the Universe
+## (7) Using CNNs to infer the fundamental parameters of the Universe
 
 For this hack, we're using the CAMELS multifield data set.
 The data is in the `CAMELS_multifield` directory in the google drive linked above.
@@ -106,7 +109,7 @@ simulations and test on SIMBA, are the inferred cosmological parameters correct?
 
 contact person: Leander Thiele
 
-## A generative model for galaxy spectra
+## (8) A generative model for galaxy spectra
 
 When testing data processing and analysis pipelines, it is often very useful to have realistic simulations
 of the anticipated data.
