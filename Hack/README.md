@@ -105,3 +105,22 @@ How well does your trained network generalize? For example, if you train on the 
 simulations and test on SIMBA, are the inferred cosmological parameters correct?
 
 contact person: Leander Thiele
+
+## A generative model for galaxy spectra
+
+When testing data processing and analysis pipelines, it is often very useful to have realistic simulations
+of the anticipated data.
+One way of producing such simulations is by learning the probability distribution of existing data and
+drawing new samples from it.
+
+Such learning can be performed with any generative model (normalizing flow, GAN, VAE, ...).
+In this hack, you're free to choose which architecture you want to use.
+
+The goal is to generate synthetic galaxy spectra, by learning from measured Sloan Digital Sky Survey data.
+The data can be found in the google drive linked above.
+
+You can choose to leave the model completely free to generate spectra, or condition
+it on parameters such as redshift and metallicity.
+Such conditioning can be useful in practice in order to perform domain shifts.
+
+Please see the [notebook](SDSS_spectra.ipynb) for a quick explanation of the data format.
