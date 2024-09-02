@@ -90,3 +90,18 @@ Find a set of variable to construct the best model of the magnitude at maximum o
 [Data](https://drive.google.com/drive/folders/1kz94LOxBTEpKeNBrG56K8rs9sp2u9Y8M?usp=sharing)
 
 Contact person: Makoto Uemura
+
+## Using CNNs to infer the fundamental parameters of the Universe
+
+For this hack, we're using the CAMELS multifield data set.
+The data is in the `CAMELS_multifield` directory in the google drive linked above.
+
+Please see the [notebook](CAMELS_multifield.ipynb) for a quick explanation of the data format.
+
+Use the available data to train a CNN to infer the underlying cosmological parameters
+from the images.
+
+How well does your trained network generalize? For example, if you train on the IllustrisTNG
+simulations and test on SIMBA, are the inferred cosmological parameters correct?
+
+contact person: Leander Thiele
