@@ -124,3 +124,12 @@ it on parameters such as redshift and metallicity.
 Such conditioning can be useful in practice in order to perform domain shifts.
 
 Please see the [notebook](SDSS_spectra.ipynb) for a quick explanation of the data format.
+
+*Ideas*: going full deep learning is not always the best idea. Sometimes we can capture a lot of the data with
+something simpler, like principal component analysis, already.
+If you're having trouble getting your model to work, this may be an option.
+Also consider downsampling the spectra for a first prototype.
+You could use then try to fill in the fine details with a second stage.
+*This is really an open-ended hack and you can be creative!*
+
+contact person: Leander Thiele
