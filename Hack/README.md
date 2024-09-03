@@ -16,7 +16,6 @@ The way I figured out how to do this is as follows (there might be a better meth
    ``cd "/content/drive/MyDrive/"``
 
 ## (1) Image Classification / Regression / Generation Tutorials and Exercises
----------
 Analyzing Cherenkov light from massive neutrino detectors, such as Super-Kamiokande,
 with convolutional neural nets.
 
