@@ -1,5 +1,7 @@
 # Hack Resources
 
+[Slide deck for Friday presentations](https://docs.google.com/presentation/d/1uPpJAkKGXF_V-RJmYK3fpkjM2ZODilWspHLQPulCUJI/edit?usp=sharing)
+
 [google drive for data](https://drive.google.com/drive/u/1/folders/13ySEme-B8XDMYgTZ8_rVpMarRUUGYbTw)
 
 It is most straightforward to directly work with the above Google drive from colab,
