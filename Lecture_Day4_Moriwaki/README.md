@@ -6,3 +6,5 @@ Example codes use SDSS spectrum dataset (sdss_galaxy_spec.hdf5) in [Google drive
 [VAE](https://colab.research.google.com/drive/1oscMuJK7QlifUNMGnayZQp2js9cx7OYi?usp=sharing)
 
 [GAN](https://colab.research.google.com/drive/10Zb_yX1iGXYXwt6BGqCLz3rIkGjT1_B1?usp=sharing)
+
+[Flow](https://colab.research.google.com/drive/1AA7fD5K-zYjkLqZERBDWinbeKO2BHTEE?usp=sharing)
